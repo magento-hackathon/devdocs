@@ -23,7 +23,9 @@ Creating a valid import file
   Key differences between M1 and M2
   Minimum required fields to import a virtual or simple product
 Product Import Examples for Magento 2
+  {%include import-export-products.md%}
   Example of importing a virtual product
+
   Example of importing a simple product
   Example of importing custom attributes
   Example of importing a configurable product

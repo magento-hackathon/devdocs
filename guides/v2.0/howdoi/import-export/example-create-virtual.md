@@ -1,0 +1,1 @@
+Example of importing a virtual product
