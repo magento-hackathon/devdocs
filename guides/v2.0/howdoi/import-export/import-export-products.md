@@ -10,6 +10,7 @@ menu_order: 1
 github_link: howdoi/import-export/import-export-products.md
 ---
 How do I Import and Export Products in Magento 2 (with Examples)
+Presentation as source https://de.slideshare.net/bennolippert/magento-2-product-import-export
 Creating a valid import file
   File Formatting
     CSV
