@@ -9,21 +9,27 @@ menu_order: 1
 
 github_link: howdoi/import-export/import-export-products.md
 ---
-How do I Import and Export Products in Magento 2 (with Examples)
+
+
+# How do I Import and Export Products in Magento 2 (with Examples)
+This guide will explain based on examples how you can faciliate the import export feature of Magento 2. It highlights what is working out of the box and also what is not working as you wuld might expect it.
 Presentation as source https://de.slideshare.net/bennolippert/magento-2-product-import-export
-Creating a valid import file
+## Creating a valid import file
+  In ordner to create a valid import file you have to stick to this preferences:
   File Formatting
     CSV
     UTF-8
     |
     Does filename matter???
-  Fields
-    Link to user doc field reference:  http://docs.magento.com/m2/ce/user_guide/system/data-attributes-product.html
-  Special attention to complex fields
-  Key differences between M1 and M2
-  Minimum required fields to import a virtual or simple product
-Product Import Examples for Magento 2
-  {%include import-export-products.md%}
+
+  Field delimiter out of the box is , complex field entries are delimited with | .
+## Fixed Format  
+  There is a maximum of 86 fields which can be used in an import file. A complete list of the files can be found [here](http://docs.magento.com/m2/ce/user_guide/system/data-attributes-product.html)
+
+  You should pay special attention to complex fields, we will introduce this complex format first in the Example of importing a configurable product.
+  
+## Product Import Examples for Magento 2
+  {%include example-create-virtual.md%}
   Example of importing a virtual product
 
   Example of importing a simple product
