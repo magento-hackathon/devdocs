@@ -1,8 +1,7 @@
-## Example of importing a virtual product
+## Example of importing a simple product
 
 | sku | attribute_set_code | product_type | product_websites | name | price |
 |----------------|----------------|----------------|----------------|----------------|----------------|
-| Virtual-example | Default | virtual | base | Virtual Example Product Name | 99.0000 |
+| Simple-example | Default | simple | base | Simple Example Product Name | 99.0000 |
 
-
-[Example create virtual](examples/create-virtual.csv)
+[Example create simple](examples/create-simple.csv)

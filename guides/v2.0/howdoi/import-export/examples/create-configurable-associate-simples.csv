@@ -1,0 +1,2 @@
+sku,attribute_set_code,product_type,product_websites,name,price,configurable_variations,configurable_variation_labels
+Configurable-example-incl-simples,Bottom,configurable,base,Configurable Example Product Name With Simples,99.0000,"sku=WSH12-28-Green,color=Green,size=28|sku=WSH12-28-Purple,color=Purple,size=28|sku=WSH12-28-Red,color=Red,size=28","color=Color,size=Size"

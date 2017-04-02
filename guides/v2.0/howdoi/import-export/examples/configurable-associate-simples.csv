@@ -1,0 +1,2 @@
+sku,attribute_set_code,product_type,configurable_variations,configurable_variation_labels
+Configurable-example,Bottom,configurable,"sku=WSH12-28-Green,color=Green,size=28|sku=WSH12-28-Purple,color=Purple,size=28|sku=WSH12-28-Red,color=Red,size=28","color=Color,size=Size"
