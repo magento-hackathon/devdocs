@@ -1,3 +1,3 @@
 Example of importing a virtual product
 
-[Example create virtual](exmaples/create-virtual.csv)
+[Example create virtual](examples/create-virtual.csv)
